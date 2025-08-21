@@ -6,7 +6,7 @@ toolchain go1.23.2
 
 require (
 	github.com/golang/protobuf v1.5.4
-	github.com/v2fly/v2ray-core/v5 v5.22.0
+	github.com/v2fly/v2ray-core/v5 v5.37.0
 	google.golang.org/protobuf v1.35.1
 )
 
